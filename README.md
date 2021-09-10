@@ -71,3 +71,5 @@ Thanks to [@sergiou87](https://github.com/sergiou87), [@zschiller](https://githu
 ## License
 
 The tool is available as open-source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+Test
